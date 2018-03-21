@@ -1,3 +1,7 @@
+#mychanges
+research/object_detection/ssd_mobilenet_v1_coco_2017_11_17.tar.gz
+research/object_detection/ssd_mobilenet_v1_coco_2017_11_17/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
